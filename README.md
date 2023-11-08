@@ -1,1 +1,1 @@
-![Resume](https://github.com/rosliy/resume/blob/main/assets/resume.png)
+![Resume](https://github.com/rosliy/resume/blob/main/assets/Resume.jpg)
